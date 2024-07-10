@@ -1,5 +1,4 @@
 name: l3evpn
-prefix: "clab"
 
 topology:
   defaults:
@@ -9,7 +8,7 @@ topology:
       image: ghcr.io/nokia/srlinux:24.3.3
     linux:
       image: quay.io/frrouting/frr:9.0.2
-#########################################################
+
   nodes:
     spine:
       type: ixrd3l
@@ -17,27 +16,26 @@ topology:
       type: ixrd2l
     leaf2:
       type: ixrd2l
-#########################################################
-    frr1:
+
+    ce1:
       kind: linux
       binds:
         - startup_configs/frr1.conf:/etc/frr/frr.conf
         - startup_configs/frr-daemons.conf:/etc/frr/daemons
       exec:
         - ip link set dev eth0 down
-    frr2:
+    ce2:
       kind: linux
       binds:
         - startup_configs/frr2.conf:/etc/frr/frr.conf
         - startup_configs/frr-daemons.conf:/etc/frr/daemons
       exec:
         - ip link set dev eth0 down
-#########################################################
 
   links:
-  # Spine - Leaf
+    # Spine - Leaf
     - endpoints: ["spine:e1-1", "leaf1:e1-49"]
     - endpoints: ["spine:e1-2", "leaf2:e1-49"]
-  # Leaf - FRR
-    - endpoints: ["leaf1:e1-1", "frr1:eth1"]
-    - endpoints: ["leaf2:e1-1", "frr2:eth1"]
+    # Leaf - CE
+    - endpoints: ["leaf1:e1-1", "ce1:eth1"]
+    - endpoints: ["leaf2:e1-1", "ce2:eth1"]
