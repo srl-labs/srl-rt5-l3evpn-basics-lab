@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T15:38:21.075Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mHS9rbOxqWD1GKsxnVf8" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-10T15:41:24.668Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="I-WmK0SiKqGslRbo4jfC" version="24.6.4" type="github" pages="3">
   <diagram name="0" id="DtRPSw0Q84hj6Syw1lVk">
     <mxGraphModel dx="411" dy="229" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="1" id="eGoLkRZ1txEC5OdwEta4">
-    <mxGraphModel dx="284" dy="158" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
+    <mxGraphModel dx="519" dy="289" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
       <root>
         <mxCell id="IzOKqjtIy7IdpCucFaZ0-0" />
         <mxCell id="IzOKqjtIy7IdpCucFaZ0-1" parent="IzOKqjtIy7IdpCucFaZ0-0" />
@@ -447,11 +447,11 @@
             <mxPoint x="316" y="432" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ll5rUXmFGryDd4VpBJBB-3" value="&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;EBGP&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;connectable=0;rotation=-74;fillColor=#4D5766;fontColor=#BEC8D2;" vertex="1" parent="IzOKqjtIy7IdpCucFaZ0-1">
-          <mxGeometry x="375" y="403" width="24" height="11" as="geometry" />
+        <mxCell id="ll5rUXmFGryDd4VpBJBB-3" value="&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;EBGP&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;connectable=0;rotation=-74;fillColor=none;fontColor=#BEC8D2;" vertex="1" parent="IzOKqjtIy7IdpCucFaZ0-1">
+          <mxGeometry x="378" y="404" width="24" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="ll5rUXmFGryDd4VpBJBB-1" value="&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;EBGP&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;connectable=0;rotation=-107;fillColor=#4D5766;fontColor=#BEC8D2;" vertex="1" parent="IzOKqjtIy7IdpCucFaZ0-1">
-          <mxGeometry x="297" y="403" width="24" height="11" as="geometry" />
+        <mxCell id="ll5rUXmFGryDd4VpBJBB-1" value="&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;EBGP&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;connectable=0;rotation=-107;fillColor=none;fontColor=#BEC8D2;" vertex="1" parent="IzOKqjtIy7IdpCucFaZ0-1">
+          <mxGeometry x="292" y="404" width="24" height="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
