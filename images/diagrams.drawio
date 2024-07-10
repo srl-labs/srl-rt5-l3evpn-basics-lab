@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T15:36:49.112Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Z_zi97PuMGagQlFJIM99" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-10T15:37:49.993Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Usi4sqeX7ar3SUd24lqZ" version="24.6.4" type="github" pages="3">
   <diagram name="0" id="DtRPSw0Q84hj6Syw1lVk">
     <mxGraphModel dx="411" dy="229" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
       <root>
@@ -354,7 +354,7 @@
         <mxCell id="IzOKqjtIy7IdpCucFaZ0-29" value="ce2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Google Sans;fontStyle=0;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" vertex="1" parent="IzOKqjtIy7IdpCucFaZ0-1">
           <mxGeometry x="363.5" y="450" width="35" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="ll5rUXmFGryDd4VpBJBB-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=2;endArrow=blockThin;endFill=1;endSize=2;fontFamily=Manrope;fontSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DManrope;startArrow=blockThin;startFill=1;strokeColor=#FFFB00;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IzOKqjtIy7IdpCucFaZ0-1" source="ll5rUXmFGryDd4VpBJBB-5" target="IzOKqjtIy7IdpCucFaZ0-8">
+        <mxCell id="ll5rUXmFGryDd4VpBJBB-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=2;endArrow=blockThin;endFill=1;endSize=2;fontFamily=Manrope;fontSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DManrope;startArrow=blockThin;startFill=1;strokeColor=#FFFB00;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;opacity=70;" edge="1" parent="IzOKqjtIy7IdpCucFaZ0-1" source="ll5rUXmFGryDd4VpBJBB-5" target="IzOKqjtIy7IdpCucFaZ0-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184" y="413" as="sourcePoint" />
             <mxPoint x="231" y="413" as="targetPoint" />
@@ -363,7 +363,7 @@
         <mxCell id="ll5rUXmFGryDd4VpBJBB-1" value="&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;EBGP&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;connectable=0;rotation=-107;fillColor=#4D5766;fontColor=#BEC8D2;" vertex="1" parent="IzOKqjtIy7IdpCucFaZ0-1">
           <mxGeometry x="297" y="403" width="24" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="ll5rUXmFGryDd4VpBJBB-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=2;endArrow=blockThin;endFill=1;endSize=2;fontFamily=Manrope;fontSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DManrope;startArrow=blockThin;startFill=1;strokeColor=#FFFB00;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IzOKqjtIy7IdpCucFaZ0-1" source="ll5rUXmFGryDd4VpBJBB-7" target="IzOKqjtIy7IdpCucFaZ0-28">
+        <mxCell id="ll5rUXmFGryDd4VpBJBB-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=2;endArrow=blockThin;endFill=1;endSize=2;fontFamily=Manrope;fontSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DManrope;startArrow=blockThin;startFill=1;strokeColor=#FFFB00;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;opacity=70;" edge="1" parent="IzOKqjtIy7IdpCucFaZ0-1" source="ll5rUXmFGryDd4VpBJBB-7" target="IzOKqjtIy7IdpCucFaZ0-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="316" y="385" as="sourcePoint" />
             <mxPoint x="316" y="432" as="targetPoint" />
@@ -381,7 +381,7 @@
         <mxCell id="ll5rUXmFGryDd4VpBJBB-9" value="L3 EVPN instance" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Google Sans;fontStyle=0;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" vertex="1" parent="IzOKqjtIy7IdpCucFaZ0-1">
           <mxGeometry x="296" y="485.5" width="97" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="ll5rUXmFGryDd4VpBJBB-10" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startSize=2;endArrow=blockThin;endFill=1;endSize=2;fontFamily=Manrope;fontSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DManrope;startArrow=blockThin;startFill=1;strokeColor=#4BDD33;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;curved=0;" edge="1" parent="IzOKqjtIy7IdpCucFaZ0-1" source="IzOKqjtIy7IdpCucFaZ0-17" target="IzOKqjtIy7IdpCucFaZ0-10">
+        <mxCell id="ll5rUXmFGryDd4VpBJBB-10" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startSize=2;endArrow=blockThin;endFill=1;endSize=2;fontFamily=Manrope;fontSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DManrope;startArrow=blockThin;startFill=1;strokeColor=#4BDD33;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;curved=0;opacity=70;" edge="1" parent="IzOKqjtIy7IdpCucFaZ0-1" source="IzOKqjtIy7IdpCucFaZ0-17" target="IzOKqjtIy7IdpCucFaZ0-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="368" y="323" as="sourcePoint" />
             <mxPoint x="305" y="357" as="targetPoint" />
