@@ -13,10 +13,13 @@ topology:
   nodes:
     spine:
       type: ixrd3l
+      # startup-config: startup_configs/spine.conf
     leaf1:
       type: ixrd2l
+      # startup-config: startup_configs/leaf1.conf
     leaf2:
       type: ixrd2l
+      # startup-config: startup_configs/leaf2.conf
 
     ce1:
       kind: linux
@@ -24,6 +27,7 @@ topology:
         - startup_configs/frr1.conf:/etc/frr/frr.conf
         - startup_configs/frr-daemons.conf:/etc/frr/daemons
       exec:
+        - ip link set dev eth1 address 00:C1:AB:00:00:01
         - ip link set dev eth0 down
     ce2:
       kind: linux
@@ -31,6 +35,7 @@ topology:
         - startup_configs/frr2.conf:/etc/frr/frr.conf
         - startup_configs/frr-daemons.conf:/etc/frr/daemons
       exec:
+        - ip link set dev eth1 address 00:C1:AB:00:00:02
         - ip link set dev eth0 down
 
   links:
