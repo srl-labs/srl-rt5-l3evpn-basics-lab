@@ -11,3 +11,5 @@
 </div>
 
 ---
+
+Read the tutorial at <https://learn-srlinux.pages.dev/tutorials/l3evpn/>
