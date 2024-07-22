@@ -13,13 +13,13 @@ topology:
   nodes:
     spine:
       type: ixrd3l
-      startup-config: startup_configs/spine.conf
+      # startup-config: startup_configs/spine.conf
     leaf1:
       type: ixrd2l
-      startup-config: startup_configs/leaf1.conf
+      # startup-config: startup_configs/leaf1.conf
     leaf2:
       type: ixrd2l
-      startup-config: startup_configs/leaf2.conf
+      # startup-config: startup_configs/leaf2.conf
 
     srv1:
       kind: linux
