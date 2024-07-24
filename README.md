@@ -12,4 +12,4 @@
 
 ---
 
-Read the tutorial at <https://learn-srlinux.pages.dev/tutorials/l3evpn/rt5-only>
+Read the tutorial at <https://learn.srlinux.dev/tutorials/l3evpn/rt5-only/>
