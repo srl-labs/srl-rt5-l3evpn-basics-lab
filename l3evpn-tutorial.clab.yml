@@ -6,19 +6,19 @@ topology:
     kind: nokia_srlinux
   kinds:
     nokia_srlinux:
-      image: ghcr.io/nokia/srlinux:24.3.3
+      image: ghcr.io/nokia/srlinux:25.10.1
     linux:
-      image: quay.io/frrouting/frr:9.0.2
+      image: quay.io/frrouting/frr:10.5.0
 
   nodes:
     spine:
-      type: ixrd3l
+      type: ixr-d3l
       # startup-config: startup_configs/spine.conf
     leaf1:
-      type: ixrd2l
+      type: ixr-d2l
       # startup-config: startup_configs/leaf1.conf
     leaf2:
-      type: ixrd2l
+      type: ixr-d2l
       # startup-config: startup_configs/leaf2.conf
 
     srv1:
